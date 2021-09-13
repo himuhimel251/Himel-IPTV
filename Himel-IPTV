@@ -1,460 +1,1208 @@
-                                                    ***** Bangladeshi *****
+                                        ***** Bangladeshi *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
- #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
-http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
+https://cdn.nowhdtime.com.bd/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV 
+http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
-http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-ATNBANGLA-BD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangladeshi", ATN News
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-ATNNEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Bangladeshi", Bangladesh Television
-http://103.106.2.149:13456/btv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangladeshi", Bangladesh Television CTG
-http://103.106.2.149:13456/btv_ctg.m3u8
+http://indo51.gcdn.co/BANGLA-BD-BTVBD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangladeshi", BTV World
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi", Bangla TV
-http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-BanglatvUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi", Banglavision HD
-http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-BANGLAVISION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangladeshi", Bijoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangladeshi", Boishakhi TV
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-BOISAKHI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24
-http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-CHANNEL24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangladeshi", Channel 9 HD
-http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangladeshi", Channel I HD
-http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-CHANNELI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladeshi", DBC News
-http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
-http://103.81.104.118/hls/dipto.m3u8
+http://indo51.gcdn.co/BANGLA-BD-DBCNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV
+http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
-http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+http://indo51.gcdn.co/BANGLA-BD-DESHTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
-http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
+http://indo51.gcdn.co/BANGLA-BD-Ekattortv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekusey TV
+http://indo51.gcdn.co/BANGLA-BD-EKUSHEYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekusey TV (2)
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi", Gazi TV HD 
+http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
-http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV
-http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-Jamunatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangladeshi", Maasranga TV HD
-http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangladeshi", Mohona TV HD
-http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-MOHONATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangladeshi", My TV BD
-http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-MYTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV
-http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
+http://indo51.gcdn.co/BANGLA-BD-NAGORIKTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD
-http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-NEWS24HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangladeshi", Nexus TV 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
-http://jupiter.bdcabletv.com/NTV/video.m3u8
+http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD
-http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD (2)
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SA TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
+http://indo51.gcdn.co/BANGLA-BD-Somoynews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD 
+http://103.81.104.118/hls/t-sports.m3u8
 
 
-***** Indian Bangla *****
+
+                                                    ***** Indian Bangla *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
-https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c76kK2K.png" group-title="Indian Bangla", Akash Aath
+http://indo51.gcdn.co/BANGLA-IND-AKASH8/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://iptv.itcnbd.com/images/sonyaath.jpg" group-title="Indian Bangla", Sony Aath
+http://103.159.4.38:5868/IN-BANGLA-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
+http://tvflixtn.ddns.net/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
+http://indo51.gcdn.co/BANGLA-IND-colorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD SK
-http://103.81.104.118/hls/colorsbangla.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD BDC
-http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla FHD Global
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla FHD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26f6812ba48a2cfcbf1db217571cb1fd89017e3a0479dee6441491941c17d496da61a5992ce34f2760eccc4421fd34f899e39f853818ba54f0169f5b73dc53695118a2c538d51bd85c35b717cf6d68123&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla SK
-http://103.81.104.118/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztIgmV5.png" group-title="Indian Bangla", DD Bangla SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD SK
-http://103.81.104.118/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla (3)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD 
+http://jupiter.bdcabletv.com:80/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD BDC
-http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="Indian Bangla", News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aat SK
-http://103.205.133.18/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aat (BDIX)
-http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aat BDC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eCbGa7.png" group-title="Indian Bangla", Ruposhi Bangla
+http://indo51.gcdn.co/BANGLA-IND-Rupashibangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath HD
 http://jupiter.bdcabletv.com/SonyAath/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
+http://103.159.4.38:5868/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD SK
-http://103.81.104.118/hls/starjalsha.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD BDC
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha FHD Global
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha FHD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
-https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla SK
-http://103.81.104.118/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD SK
-http://103.81.104.118/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD BDC
-http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla FHD Global
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
+http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
+http://indo51.gcdn.co/BANGLA-IND-ZeeBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla FHD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394155cad0d3fb6590a4994ad08d77346bc38e60e12e23d1e4c475b50b48f09950198e189a4b5a10ac74d1bd01ed0ad7cfe9fe35b93d1b3962912dfc9efa50066fb3a87e338845a44e7a813af5fa5d111e8be9802b&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://indo51.gcdn.co/BANGLA-IND-ZEEBANGLACinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema BDC
-http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Indian Bangla", Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 
-***** Hindi Entertainment *****
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zplvx69.png" group-title="Indian Bangla", Zee 24 Ghanta
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vKkvbXw.png" group-title="Hindi Entertainment", Colors HD(global)
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vKkvbXw.png" group-title="Hindi Entertainment", Colors HD BDC
-http://jupiter.bdcabletv.com/ENC-8/video.m3u8
+
+
+                                                    ***** Hindi Entertainment *****
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV HD
+http://indo51.gcdn.co/hindi-&tvHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="Hindi Entertainment", Dangal
+https://idvd.multitvsolution.com/idvo/dangal_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKkvbXw.png" group-title="Hindi Entertainment", Colors HD
+http://indo51.gcdn.co/hindi-COLORSindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD
+http://indo51.gcdn.co/hindi-SONYindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD SK
-http://103.81.104.118/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment FHD Global
-http://tvflixdonotcopy.ddns.net:8080/SonyTVHD/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony Sab HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment FHD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX7M2Cc.png" group-title="Hindi Entertainment", Sony Pal
+http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony Sab HD BDC
-http://jupiter.bdcabletv.com/sony_sab-sim/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi Entertainment", Star Bharat BDC
-http://jupiter.bdcabletv.com/ENC-14/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus SD 
-http://103.205.133.18/hls/chsp.m3u8
+http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD 
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD SK
-http://103.81.104.118/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD BDC
 http://jupiter.bdcabletv.com/StarPlus/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi Entertainment",Star Bharat 4k
+http://jupiter.bdcabletv.com/ENC-14/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD BDC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD SK
-http://103.81.104.118/hls/zeetv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD BDC
-http://jupiter.bdcabletv.com/ENC-9/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest?cb=20210520175932" group-title="Hindi Entertainment",Star Utsav
+http://indo51.gcdn.co/hindi-STARUTSAVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Colors-Rishtey.png" group-title="Hindi Entertainment",Colors Ristey
+http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
 
 
-***** Hindi Movies *****
+
+                                                    ***** Hindi Movies *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures HD SK
-http://103.81.104.118/hls/andpictured.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures FHD Global
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMTKYNgL-XbbTf2kyuMIj7rt0yMPIaTVslw2zfrqUifbM_Fk1FrLNNyERMaWLusnLBkU&usqp=CAU" group-title="Hindi Movies",B4 PLUS
+http://indo51.gcdn.co/hindi-B4UPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures SD
+http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures HD
+http://indo51.gcdn.co/hindi-&PICTUREHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/97146-B4UKadak.jpg" group-title="Hindi Movies",B4U Khadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures FHD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi Movies", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi Movies", Colors Cineplex HD SK
-http://103.81.104.118/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="Hindi Movies", Rishtey Cineplex HD
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi Movies", Colors Cineplex SD
+http://indo51.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi Movies", Colors Cineplex HD 
+http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srAUg8f.png" group-title="Hindi Movies", MBC Bollywood
+http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srAUg8f.png" group-title="Hindi Movies", MBC Bollywood (2)
+http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD SK
-http://103.81.104.118/hls/sonymax.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD BDC
-http://jupiter.bdcabletv.com/SonyMax/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max SD
+http://indo51.gcdn.co/hindi-SONYMAXindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kw1CDQR.png" group-title="Hindi Movies", Sony Max 2
+http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Hindi Movies", Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD SK
+
+
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="Hindi Movies",BBO
+http://indo51.gcdn.co/hindi-MTVHDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD
 http://103.81.104.118/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD 
+http://103.81.104.118/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD (3)
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD BDC
-http://jupiter.bdcabletv.com/ENC-10/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi Movies", Star Gold Select HD
-http://watchindia.net:8880/live/33253/72963/784.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action SK
-http://103.81.104.118/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies", UTV Movies SK
-http://103.81.104.118/hls/utv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies", UTV Movies BDC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies", UTV Movies
+http://indo51.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies", UTV Movies
 http://jupiter.bdcabletv.com/ENC-20/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Movies", Zee Action
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGg6i93.png" group-title="Hindi Movies", Zee Anmol Cinema
+http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Bolywood
+http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD SK
-http://103.81.104.118/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD(global)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema 
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2ab9c9f565cea5ad71cdbe493f6ef01aa7f8cb1505aa2f2d76d8c370143c994a504af765a60dcc233e1296e561d8e80beb0bf0be6272949e752a69c91210e9eb649f1e32ea143a7969d63519ca1de570381830e8b9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="Hindi Movies",B4UMovies
+http://indo51.gcdn.co/hindi-B4UMovies/tracks-v1a1/mono.m3u8
 
 
-***** English Infotainment *****
+                                                    ***** English Infotainment *****
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English Infotainment", Animal Planet FHD Hindi
-http://mygoodstream.pw/proxy.php/http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English Infotainment", Animal Planet HD Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English Infotainment", Animal Planet FHD SK
-http://103.81.104.118/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="English Infotainment", BBC Earth Sony 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English Infotainment", Animal Planet HD English
+http://q38.gcdn.co/animal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="English Infotainment", BBC Earth Sony Hindi HD
+http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="English Infotainment", BBC Earth Sony (2)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="English Infotainment", BBC Earth Sony SK
-http://103.81.104.118/hls/bbcearth.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIZyi7p.png" group-title="English Infotainment", BBC Lifestyle
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery SD eng
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery SD Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery sd BANGLA
+http://indo51.gcdn.co/BANGLA-BD-DISCOVERYBANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD Bangla SK
 http://103.81.104.118/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla SK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD Hindi
+http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English Infotainment", Discovery Science Hindi
+https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English Infotainment", Discovery Science English
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English Infotainment", Discovery Turbo
+http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English Infotainment", Discovery Investigation
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English Infotainment", History 18
+http://indo51.gcdn.co/hindi-HISTORY18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Edi1XS1.png" group-title="English Infotainment", MNX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
+http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Hindi
+http://indo51.gcdn.co/hindi-Nationalgeographicindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla
 http://103.81.104.118/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD 
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild HD
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild 
+http://103.81.104.118/hls/wild.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild Hindi
+http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English Infotainment", Outdoor SD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC SD Hindi
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC HD Hindi
 http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP
 http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" group-title="English Infotainment",Fox Life
+http://indo51.gcdn.co/hindi-DISCOVERYJEET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP HD Bangla
 
 
-***** English Movies *****
+                                                    ***** English News *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN SK
-http://103.81.104.118/hls/axn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDkxPUU.png" group-title="English News", Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="English News", BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsLYbdw.png" group-title="English News", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy3Vr9F.png" group-title="English News", CNN HD 
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiwiLPN.png" group-title="English News", Deutsche Welle
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UyIJDcE.png" group-title="English News", Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAzFoQG.png" group-title="English News", Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUFz10j.png" group-title="English News", Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English News", Al Jazeera FHD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English News", Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English News", Al Jazeera SD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+
+
+                                                    ***** English Movies *****
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="English Movies", & Flix HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English Movies", & Prive HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
+http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2g1RZpU.png" group-title="English Movies", Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2g1RZpU.png" group-title="English Movies", Blue Ant Entertainment SK
 http://103.81.104.118/hls/blueant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="English Movies", Colors Infinity 
-http://143.244.60.10/ENGLISH__COLORS_INFINITY_HD/tracks-v1a1/mono.m3u8?token=test
+http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movies", Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiwKvEl.png" group-title="English Movies", Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="English Movies", Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="English Movies", Fox Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO (2)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movies", HBO Hits
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/an5P0s0.png" group-title="English Movies", HBO Signature
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzzUQRK.png" group-title="English Movies", Lotus Macau SK
-http://103.81.104.118/hls/lotus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD SK
-http://103.81.104.118/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix FHD Global
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgM8EXt.png" group-title="English Movies", MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qcldbWZ.png" group-title="English Movies", MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qshsTyG.png" group-title="English Movies", MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qshsTyG.png" group-title="English Movies", MBC Drama Plus
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English Movies", MBC HD 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="English Movies", MBC HD 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English Movies", MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Caapww.png" group-title="English Movies", Rakuten TV
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGwEyKM.jpg" group-title="English Movies", Rasi Hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English Movies", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD
+https://is.gd/ObFrpt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix FHD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies HD SK
-http://103.81.104.118/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies HD (2)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies HD BDC
-http://jupiter.bdcabletv.com/ENC-17/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies FHD Global
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies FHD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English Movies", Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movies", Star World BDC
-http://jupiter.bdcabletv.com/ENC-2/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movies", Star World BDC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movies", Star World
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movies", Star World 
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWmEXpL.png" group-title="English Movies", Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English Movies", Zee Cafe HD
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
 
 
-***** Kids *****
+                                                    ***** Religious *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", NICK
-http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network 
-http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p38aILI.png" group-title="Religious", Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1tdRLn8.png" group-title="Religious", Ahlulbayt TV
+http://109.123.126.10:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Religious", Al Dawah
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Religious", ATN Islamic
+http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HY3nwkd.png" group-title="Religious", Dua Channel
+https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Religious", Madani TV
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MbFLNX.png" group-title="Religious", Peace TV English
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
-***** Sports *****
+
+                                                    ***** Sports *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV
-http://137.59.155.77:8088/hls/01gazitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", TSports
-http://103.81.104.118/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://103.81.104.118/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1
-http://103.81.104.118/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="Sports", Sony Ten 2
-http://103.81.104.118/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7N5ypnj.png" group-title="Sports", Sony Ten 3
-http://103.81.104.118/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://103.81.104.118/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
-hhttp://103.81.104.118/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
-hhttp://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7Npxxs.png" group-title="Sports", AD Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports HD
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
+http://55.1-bour.xyz/live/918454578/index.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD 
+http://55.1-bour.xyz/live/69854211/index.m3u8?wostvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3 
+http://7.yaciaptk.xyz/live/645587700/index.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8?wostvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1
+http://6.yaciaptk.xyz/live/6161655/index.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports premium 2
+http://16.yaciaptk.xyz/live/616194987/index.m3u8?wostvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports Xtra 1
+http://55.abdakaroukhai.xyz/live/9962564400/index.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports Xtra 2
+http://55.abdakaroukhai.xyz/live/880025552/index.m3u8?wostvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDCErVN.png" group-title="Sports", Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="Sports", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="Sports", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6KvFk6.png" group-title="Sports", Eurosports 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klqWiwb.png" group-title="Sports", Eurosports 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1LDOcz.png" group-title="Sports", Fox 501 FHD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV 
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports SK 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
-hhttp://103.81.104.118/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUEowl1yRGKKt5nWBErbji8wtfJjB843ftNumPcmbz2J3IEYhM6zO7bji&s=10" group-title="Sports", IND VS ENG SONY LIV LIVE
-hhttps://pubads.g.doubleclick.net/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgurupload.org/files/PicsArt-08-30-09-25-27_89ea2.jpg" group-title="Sports", BAN VS NZ T20 LIVE
-hhttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630855954/ei/so40YfThKejUz7sPkY2M-As/ip/118.179.15.213/id/mTrJReyww44.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886208/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALEdM4QzHh-LzafibzPYQFaQFt0g12EPjPmOXwEe_VioAiEAtomcqAExB9YtwlTQYP3Tmh7agUFu_2ddm20HWfW4JvM%3D/file/index.m3u8
+http://server.nvisionbd.net:25461/live/ashrafulemon18/ashrafulemon18/1162.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD
+http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0ttZru.png" group-title="Sports", Sony Ten 1 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0ttZru.png" group-title="Sports", Sony Ten 1 HD SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0ttZru.png" group-title="Sports", Sony Ten 1 HD
+http://dxla2.gcdn.co/WC30617/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="Sports", Sony Ten 2 HD
+http://indo51.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="Sports", Sony Ten 2 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="Sports", Sony Ten 2 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7N5ypnj.png" group-title="Sports", Sony Ten 3 HD
+http://dxla2.gcdn.co/WC7999/tracks-v1a1/mono.m3u8
 
 
-***** SK Traders-BDIX *****
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 Hindi HD
+http://dxla2.gcdn.co/WC30630/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
+http://dxla2.gcdn.co/WC30630/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD (2)
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 SD SK
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="SK Traders-BDIX", Asian TV  [1]
-http://103.81.104.118/hls/Asian_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="SK Traders-BDIX", ATN Bangla [1]
-http://103.81.104.118/hls/atn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="SK Traders-BDIX", Banglavision HD [1]
-http://103.81.104.118/hls/banglavision.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="SK Traders-BDIX", Boishakhi TV [1]
-http://103.81.104.118/hls/boishakhi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="SK Traders-BDIX", Channel 9 HD [1]
-http://103.81.104.118/hls/channel9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="SK Traders-BDIX", Channel 24 [1]
-http://103.81.104.118/hls/channel24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="SK Traders-BDIX", Channel I [1]
-http://103.81.104.118/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="SK Traders-BDIX", DBC News [1]
-http://103.81.104.118/hls/dbc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="SK Traders-BDIX", Deepto TV HD [1]
-http://103.81.104.118/hls/dipto.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="SK Traders-BDIX", Ekattor TV HD [1]
-http://103.81.104.118/hls/71.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="SK Traders-BDIX", Ekusey TV [1]
-http://103.81.104.118/hls/etv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="SK Traders-BDIX", Gazi TV HD [1]
-http://103.81.104.118/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="SK Traders-BDIX", Gaan Bangla [1]
-http://103.81.104.118/hls/Gan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="SK Traders-BDIX", Independent TV [1]
-http://103.81.104.118/hls/indepen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="SK Traders-BDIX", Jamuna TV [1]
-http://103.81.104.118/hls/jamuna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="SK Traders-BDIX", Maasranga TV HD[1]
-http://103.81.104.118/hls/masranga.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="SK Traders-BDIX", Nagorik [1]
-http://103.81.104.118/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="SK Traders-BDIX", Nexus TV [1]
-http://103.81.104.118/hls/nexus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="SK Traders-BDIX", News 24 HD [1]
-http://103.81.104.118/hls/news24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="SK Traders-BDIX", NTV [1]
-http://103.81.104.118/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="SK Traders-BDIX", RTV HD [1]
-http://103.81.104.118/hls/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="SK Traders-BDIX", SA TV [1]
-http://103.81.104.118/hls/satv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="SK Traders-BDIX", Somoy [1]
-http://103.81.104.118/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c76kK2K.png" group-title="SK Traders-BDIX", Akash Aath [1]
-http://103.81.104.118/hls/aakaash-aath.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="SK Traders-BDIX", Colors Bangla HD [1]
-http://103.81.104.118/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="SK Traders-BDIX", Enterr 10 Bangla [1]
-http://103.81.104.118/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="SK Traders-BDIX", Jalsha Movies HD [1]
-http://103.81.104.118/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="SK Traders-BDIX", Star Jalsha HD [1]
-http://103.81.104.118/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="SK Traders-BDIX", Sun Bangla [1]
-http://103.81.104.118/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="SK Traders-BDIX", Zee Bangla HD [1]
-http://103.81.104.118/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="SK Traders-BDIX", Zee Bangla Cinema [1]
-http://103.81.104.118/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="SK Traders-BDIX", And Pictures HD [1]
-http://103.81.104.118/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="SK Traders-BDIX", Colors Cineplex HD [1]
-http://103.81.104.118/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="SK Traders-BDIX", Sony Max HD [1]
-http://103.81.104.118/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="SK Traders-BDIX", Sony Entertainment HD [1]
-http://103.81.104.118/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="SK Traders-BDIX", Star Gold HD [1]
-http://103.81.104.118/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="SK Traders-BDIX", Star Gold 2 HD [1]
-http://103.81.104.118/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="SK Traders-BDIX", Star Plus HD [1]
-http://103.81.104.118/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="SK Traders-BDIX", UTV Movies HD [1]
-http://103.81.104.118/hls/utv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="SK Traders-BDIX", UTV Action [1]
-http://103.81.104.118/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="SK Traders-BDIX", Zee TV HD [1]
-http://103.81.104.118/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="SK Traders-BDIX", Zee Cinema HD [1]
-http://103.81.104.118/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="SK Traders-BDIX", 8XM [1]
-http://103.81.104.118/hls/8xm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="SK Traders-BDIX", 9XM [1]
-http://103.81.104.118/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FySKi20.png" group-title="SK Traders-BDIX", Bhojpuri [1]
-http://103.81.104.118/hls/bhojpuri.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d68oyWN.png" group-title="SK Traders-BDIX", Rock Entertainment HD [1]
-http://103.81.104.118/hls/rock-enter.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="SK Traders-BDIX", Zoom [1]
-http://103.81.104.118/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="SK Traders-BDIX", Nick [1]
-http://103.81.104.118/hls/nick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="SK Traders-BDIX", Sony Yay [1]
-http://103.81.104.118/hls/sonyyay.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="SK Traders-BDIX", Cartoon Network HD+[1]
-http://103.81.104.118/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="SK Traders-BDIX", Duronto TV [1]
-http://103.81.104.118/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="SK Traders-BDIX", Pogo Hindi [1]
-http://103.81.104.118/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="SK Traders-BDIX", BBC Earth [1]
-http://103.81.104.118/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="SK Traders-BDIX", Discovery Bangla HD [1]
-http://103.81.104.118/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="SK Traders-BDIX", National Geographic Bangla HD [1]
-http://103.81.104.118/hls/ngohd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="SK Traders-BDIX", National Geographic Wild [1]
-http://103.81.104.118/hls/wild.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="SK Traders-BDIX", Travel XP Bangla HD [1]
-http://103.81.104.118/hls/travelxp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="SK Traders-BDIX", Animal Planet HD[1]
-http://103.81.104.118/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="SK Traders-BDIX", AXN [1]
-http://103.81.104.118/hls/axn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2g1RZpU.png" group-title="SK Traders-BDIX", Blue Ant Entertainment [1]
-http://103.81.104.118/hls/blueant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HzzUQRK.png" group-title="SK Traders-BDIX", Lotus Macau [1]
-http://103.81.104.118/hls/lotus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="SK Traders-BDIX", Sony Pix HD [1]
-http://103.81.104.118/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="SK Traders-BDIX", Star Movies HD [1]
-http://103.81.104.118/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="SK Traders-BDIX", TLC HD [1]
-http://103.81.104.118/hls/tlc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="SK Traders-BDIX", PTV Sports [1]
-http://103.81.104.118/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0ttZru.png" group-title="SK Traders-BDIX", Sony Ten 1 HD [1]
-http://103.81.104.118/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="SK Traders-BDIX", Sony Ten 2 HD [1]
-http://103.81.104.118/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7N5ypnj.png" group-title="SK Traders-BDIX", Sony Ten 3 HD [1]
-http://103.81.104.118/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SK Traders-BDIX", Sony Six HD [1]
-http://103.81.104.118/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SK Traders-BDIX", Star Sports 1 HD [1]
-http://103.81.104.118/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="SK Traders-BDIX", Star Sports 2 HD [1]
-http://103.81.104.118/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SK Traders-BDIX", Star Sports Select 1 HD [1]
-http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="SK Traders-BDIX", Star Sports Select 2 HD [1]
-http://103.81.104.118/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="SK Traders-BDIX", T Sports HD [1]
-http://103.81.104.118/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SK Traders-BDIX", Ten Cricket [1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
+http://dxla2.gcdn.co/WC30629/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD Hindi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 BDC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 3
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/62584
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
+http://dxla2.gcdn.co/WC30539/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="Sports", Star Sports Select 2 HD 
+http://dxla2.gcdn.co/WC30538/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="Sports", Star Sports Select 2 HD (2)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="Sports", Star Sports Select 2 HD SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports Variety 1
+http://ux38.gcdn.co/SSVariety1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports Variety 2
+http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports", Super Sports Variety 3
+http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports Variety 4
+http://ux38.gcdn.co/SSVariety4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports laliga
+http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.donasport.com/slike/supersport-cricket.jpg" group-title="Sports",Super Sports Cricket HD
+http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket SD
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket FHD Global
+http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/04/Sky-Sports-Racing.jpg?ssl=1" group-title="Sports",Sky Sports Racing
+http://ux38.gcdn.co/UKS81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="Sports",Geo Super
+http://dxla2.gcdn.co/WC5230/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD 
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD (S)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
 http://103.81.104.118/hls/ten-cricket.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="SK Traders-BDIX", Al Jazeera [1]
-http://103.81.104.118/hls/aljazira.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="SK Traders-BDIX", BBC World [1]
-http://103.81.104.118/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="SK Traders-BDIX", Macca [1]
-http://103.81.104.118/hls/qurqbtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="SK Traders-BDIX", Madani TV
-http://103.81.104.118/hls/madani.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports 
+http://ux38.gcdn.co/UKS48/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD 
+http://dxla2.gcdn.co/WC30329/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic432.jpg" group-title="Sports", Willow Xtra
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports 1
+http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports 2
+http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports 3
+http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports Xtra 1
+http://89.187.185.100:80/BT_SPORTS_EXTRA_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports Xtra 2
+http://89.187.185.100:80/BT_SPORTS_EXTRA_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports Xtra 3
+http://89.187.185.100:80/BT_SPORTS_EXTRA_3/tracks-v1a1/mono.m3u8
+
+
+
+                                                    ***** Music *****
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Music", 8XM SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Music", 8XM 
+http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mkjuTk.png" group-title="Music", 9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM (2)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM (3)
+http://103.205.133.18/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="Music", ATN Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png" group-title="Music", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPRT3Zq.png" group-title="Music", Bol Hadippa
+https://live.hungama.com/linear/bol-hadippa/playlist_144p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FySKi20.png" group-title="Music", Bhojpuri
+http://103.81.104.118/hls/bhojpuri.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Music", B4U Music
+http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music", Dhoom Music
+http://indo51.gcdn.co/BANGLA-IND-DHOOMMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Music", Masti TV
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Music", MTV Hits
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jpYBad.png" group-title="Music", MTV Beats HD 
+http://indo51.gcdn.co/hindi-DesiBeatsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wg3N1VT.png" group-title="Music", Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Music", RTV Music 
+http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Music", Sangeet Bangla
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Music", Sangeet Bangla (2)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chHDUsi.png" group-title="Music", Zingg
+http://indo51.gcdn.co/hindi-ZINGTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom SK
+http://indo51.gcdn.co/hindi-ZOOMindia/tracks-v1a1/mono.m3u8
+
+
+
+                                                    ***** Kids *****
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYhcIby.png" group-title="Kids", Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w17713575.m3u8?nimblesessionid=698278622
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MNpDTQ.png" group-title="Kids", Animax
+http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dr0fILL.png" group-title="Kids", Aniplus
+http://210.210.155.35/session/a052d55e-cdbe-11eb-a072-b38e91e92175/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Kids", Boomerang
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network English
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network HD+
+http://indo51.gcdn.co/kids-CartoonnetworkHDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network HD+ BDC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Hindi
+http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids Hindi
+http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney 
+http://mygoodstream.pw/proxy.php/http://103.153.39.34:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Hindi
+http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Disney Hindi (2)
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney English
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids", Disney JR Hindi
+http://pkr.cinepex.tv:8278/disneyjuniorhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="Kids", Disney XD
+http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXPWPi3.png" group-title="Kids", Marvel HQ
+http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDsHkBv.png" group-title="Kids", Majed
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3 4K
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HibXka1.png" group-title="Kids", Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick Hindi
+http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick HD+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior Hindi
+http://tvflix004.ddns.net:3232/hungama-kids/index.m3u8?token=tvflixlive.ml
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior (2)
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior BDC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Adym52U.png" group-title="Kids", Nickelodeon
+http://indo51.gcdn.co/kids-nickeloden/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjX0TbW.png" group-title="Kids", Nick Toons
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo Hindi HD
+http://indo51.gcdn.co/kids-POGO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden Hindi
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay SK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay 
+http://indo51.gcdn.co/kids-SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
+http://mygoodstream.pw/proxy.php/https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon (2)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u26ku9p.png" group-title="Kids", Wow Kids Hindi
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u26ku9p.png" group-title="Kids", Wow Kids YUP
+http://indo51.gcdn.co/kids-WOWKIDZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids Hindi", Discovery Kids Hindi [H]
+https://idvd.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids Hindi", Dishney Junior [H]
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shEcc31.png" group-title="Kids Hindi", Lale [H]
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mx6sZOU.png" group-title="Kids Hindi", TRT Cocuk [H]
+https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://images.indianexpress.com/2021/07/bhoot-police-release-date-september-17.jpg" group-title="NEW MOVIE",Bhoot Police
+http://cds1.discoveryftp.net/Movies/Hindi/2021/Bhoot%20Police/Bhoot.Police.2021.1080p.DSNP.WEB-DL.DD%2B5.1.x264-Telly.mkv
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aa Ab Laut Chalen (1999) 720p
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Aa%20Ab%20Laut%20Chalen/Aa%20Ab%20Laut%20Chalen%20%281999%29%20720p%20WEBRip%20x264%20AAC%20-%20Madhu.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aarzoo (1999)
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Aarzoo/Aarzoo%20%281999%29.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aastha
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Aastha-In%20the%20Prison%20of%20Spring/Aastha.1997.DVDRip.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Achanak
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Achanak/Achanak%201998%20Hindi%20720p%20DvDRip%20x264%20DD%202.0%20-Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aflatoon
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Aflatoon/Aflatoon%201997%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ajay
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Ajay/AJAY%20%281996%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Anari (1999)
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Anari%20No.%201/Anari%20No.%201%20%281999%29%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ankhon
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Ankhon%20Mein%20Tum%20Ho/Ankhon%20Mein%20Tum%20Ho%201997%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Arjun Pandit
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Arjun%20Pandit/Arjun%20Pandit%201999%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20Hon3yHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Army
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Army/Army.1996.720p.WebDL.AVC.AAC.ESub.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Astitva
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Astitva/Astitva%202000Hindi%20720p%20DvDrip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aur Pyaar Ho Gaya (1997) 720p
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Aur%20Pyaar%20Ho%20Gaya/Aur%20Pyaar%20Ho%20Gaya%20%281997%29%20720p%20Hindi%20DVDRip%20x264%20E-Subs%20Team%20DDH~RG.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Auzaar
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Auzaar/Auzaar%20%281997%29%20DVDRip%20420p.flv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Baadshah
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Baadshah/Baadshah%201999%20Hindi%20720P%20WEBRiP%20x265%20HEVC%20%5Bshadow%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Baaghi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Baaghi/Baaghi%20%282000%29%20Hindi%201CD%20DVDRip%20x264%20Mp3%20E-Subs%20-%20LOKI%20-%20M2Tv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Badal
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Badal/Badal%202000%20Hindi%20720%20DvDRip%20x264%20AC3...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Bade Miyan Chote Miyan (1998)
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Bade%20Miyan%20Chote%20Miyan/Bade%20Miyan%20Chote%20Miyan%20%281998%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Bandhan
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Bandhan/Bandhan.1998.720p.WEB.x264-worldmkv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Barood
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Barood/Barood.1998.Hindi.720p.WEB-DL.x264-worldmkv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Betaabi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Betaabi/Betaabi%201997%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Bhopal Express
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Bhopal%20Express/Bhopal%20Express%20%281999%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Biwi No 1
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Biwi%20No.%201/Biwi%20No.%201%20%281999%29%20Hindi%20-%20720p%20HDRiP%20-%201GB%20-%20Zaeem.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Bulandi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Bulandi/Bulandi%202000%20Hindi%20720p%20DvDrip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chaahat
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Chaahat/Chaahat%201996%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chachi 420
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Chachi%20420/Chachi%20420%201997%20Hindi%20576p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chal Mere Bhai (2000)
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Chal%20Mere%20Bhai/Chal%20Mere%20Bhai%20%282000%29%20Hindi%201080p%20NF%20WEB-DL%20H.264%20DDP%205.1%20ESub.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chhote Sarkar
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Chhote%20Sarkar/chtsrkr720p_x265_900mb.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Daava
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Daava/Daava%201997%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Daud
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Daud/Daud%201997%20Hindi%20Untouched%20WebDL%20x264%20AVC%20AAC%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Deewana Mastana
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Deewana%20Mastana/Deewana%20Mastana%20%281997%29%20Hindi%20720p%20DvDRip%20x264%20AAC.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dhaai Akshar Prem Ke (2000) 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dhaai%20Akshar%20Prem%20Ke/Dhaai%20Akshar%20Prem%20Ke%20%282000%29%20Hindi%20720p%20DVDRip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dhadkan
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dhadkan/Dhadkan.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dil SE
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dil%20Se/Dil%20Se..%20%281998%29%20Hindi%201080p%20WEBRip.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dil To Pagal He
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dil%20To%20Pagal%20Hai/Dil%20To%20Pagal%20Hai%201997%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20MSubs-HDSector.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dillagi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dillagi/Dillagi%20%281999%29%201CDRip%20-%20DVDRip%20-%20Xvid%20-%20%5BxDM%5D.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dulhan Hum Le Jayenge
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dulhan%20Hum%20Le%20Jayenge/Dulhan%20Hum%20Le%20Jayenge%202000%20Hindi%20720p%20DvDrip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dushman
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dushman/Dushman%201998%20Hindi%20DvDRip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dulhe Raja
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Dulhe%20Raja/Dulhe%20Raja%201998%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",English Babu Deshi Mam
+http://cds1.discoveryftp.net/Movies/Hindi/2000/English%20Babu%20Desi%20Mem/English%20Babu%20Desi%20Mem%201996%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Fareb
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Fareb/frb96_x264_700mb.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Fire
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Fire/Fire%20%281996%29%20DVDrip%20x264%20AAC%202.0%20-TG.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Fiza
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Fiza/Fiza%20%282000%29%20720p%20Hindi%20DVDRip%20x264%20E-Subs%20Team%20DDH.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ghatak
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Ghatak/Ghatak%201996%20Hindi%20720p%20DvDrip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ghulam
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Ghulam/Ghulam%20%281998%29%20Hindi%20720p%20BluRay%20x264%20AC3%20DD%205.1%20E-Subs%20-%20LOKI%20-%20M2Tv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Gupt
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Gupt/Gupt%201997%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20ESub-HDSector.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hadh Kar Di Aapne 2000
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hadh%20Kar%20Di%20Aapne/Hadh%20Kar%20Di%20Aapne%202000%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hameshaa
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hameshaa/Hameshaa%201997%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Har Dil Jo Pyar Karega (2000
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Har%20Dil%20Jo%20Pyar%20Karega/Har%20Dil%20Jo%20Pyar%20Karega%20%282000%29%20-%20720p%20-%20WEBRip%20-%20x264%20-%20AAC%20-%20Madhu.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Haseena maan jaayegi 1999 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Haseena%20Maan%20Jaayegi/Haseena%20maan%20jaayegi%201999%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hello Brother
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hello%20Brother/Hello%20Brother%201999%20%281CD%29%20DvDRip%20x264%20AAC...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hera Pheri
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hera%20Pheri/Hera%20Pheri%20%282000%29%201080p%20Web-Dl%20AVC%20AAC%20%5BDrC%5D.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hero No 1
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hero%20No.%201/Hero%20No.%201%20%281997%29%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hey Ram
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hey%20Ram/Hey%20Ram%202000%20Hindi%20DvDRip%20480p%20x264%20AAC%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hogi Pyaar Ki Jeet
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hogi%20Pyaar%20Ki%20Jeet/Hogi%20Pyaar%20Ki%20Jeet%20%281999%29%20Hindi%20WebDL%20x264%20AVC%20AAC%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hum Aapke Dil Mein Rehte Hain 1999
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hum%20Aapke%20Dil%20Mein%20Rehte%20Hain/Hum%20Aapke%20Dil%20Mein%20Rehte%20Hain%201999%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hum Dil De Chuke Sanam 1999
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hum%20Dil%20De%20Chuke%20Sanam/Hum%20Dil%20De%20Chuke%20Sanam%201999%20Hindi%20720p%20HDRip%20x264%20AC3%205.1%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hum Saath-Saath Hain (1999) 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hum%20Saath-Saath%20Hain/Hum%20Saath-Saath%20Hain%20%281999%29%20720p%20AVC%20HDrip%20AAC%20Audio-%28Suman142%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hum Tum Pe Marte Hain 1999
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Hum%20Tum%20Pe%20Marte%20Hain/Hum%20Tum%20Pe%20Marte%20Hain%201999%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",International Khiladi 1999
+http://cds1.discoveryftp.net/Movies/Hindi/2000/International%20Khiladi/International%20Khiladi%201999%20Hindi%20720p%20DvDrip%20x264%20AC3...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ishq
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Ishq/Ishq%201997%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Itihaas
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Itihaas/Itihaas%201997%20Hindi%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jaan
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jaan/Jaan%20%281996%29%20HDRip%20720p%20Hindi%20H.264%20ACC.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jaanam Samjha Karo
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jaanam%20Samjha%20Karo/Jaanam%20Samjha%20Karo%201999%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jaanwar
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jaanwar/Jaanwar%201999%20Hindi%20720p%20HDRip%20x264%20AC3%202.0%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jab Pyaar Kisise Hota Hai 1998 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jab%20Pyaar%20Kisise%20Hota%20Hai/Jab%20Pyaar%20Kisise%20Hota%20Hai%201998%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jis Desh Mein Ganga Rehta Hain 2000
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jis%20Desh%20Mein%20Ganga%20Rehta%20Hain/Jis%20Desh%20Mein%20Ganga%20Rehta%20Hain%202000%20Hindi%20DVDRip%20XviD%20E-SuB%20xRG.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Joru Ka Ghulam 2000 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Joru%20Ka%20Ghulam/Joru%20Ka%20Ghulam%202000%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Josh
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Josh/Josh%20%282000%29%201080p%20WEBDL.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Judaai
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Judaai/Judaai%201997%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jung 1
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jung/Jung%20%281996%29-1.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jung 2
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jung/Jung%20%281996%29-2.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jungle
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Jungle/Jungle%20%282000%29.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kachche Dhaage
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kachche%20Dhaage/Kachche%20Dhaage%201999%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kahin Pyaar Ho Jaaye
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kahin%20Pyaar%20Na%20Ho%20Jaaye/Kahin%20Pyaar%20Na%20Ho%20Jaaye%202000%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kaho Na Pyaar Hai 2000 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kaho%20Naa...%20Pyaar%20Hai/Kaho%20Na%20Pyaar%20Hai%202000%20HDrip%20720p%20x264%20AC3%205.1%20ESubs...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kama Sutra A Tale of Love
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kama%20Sutra-A%20Tale%20of%20Love/Kama%20Sutra%20A%20Tale%20of%20Love%20%281996%29%20720p%20HD.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Khamoshi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Khamoshi-The%20Musical/Khamoshi%20%281996%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Khauff
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Khauff/Khauf%20%282000%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Khiladiyon Ka Khiladi 1996 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Khiladiyon%20Ka%20Khiladi/Khiladiyon%20Ka%20Khiladi%201996%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Khoobsurat
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Khoobsurat/Khoobsurat%201999%20Hindi%20576p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Koyla
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Koyla/Koyla%201997%20Hindi%20720p%20HDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kuch.Kuch.Hota.Hai.1998.1080p.
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kuch%20Kuch%20Hota%20Hai/Kuch.Kuch.Hota.Hai.1998.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kunwara
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kunwara/Kunwara.2000.Hindi.720p.WEB-DL.x264-worldmkv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kya Kehna
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Kya%20Kehna/Kya%20Kehna%20%282000%29%20HDRip%20720p%20x264%20AAC%20%7B%20TaRa%20%7D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Mela
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Mela/Mela%20%282000%29%20720p%20Untouched%20Web-Dl%20AVC%20AAC%20-%20ROCK.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Mann
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Mann/Mann%201999%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Mohabbat
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Mohabbat/Mohabbat%20%281997%29%20DVDrip.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Mrs Khiladi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Mr.%20%26%20Mrs.%20Khiladi/Mr.%20%26%20Mrs.%20Khiladi%20%281997%29%20Hindi%20720p%20WEBHDRip%20x264%20AAC%20-%20LOKI.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Naseeb
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Naseeb/Naseeb%201997%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pardes
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Pardes/Pardes%20%281997%29%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20R3CoN.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pukar
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Pukar/Pukar%20%282000%29%20720p%20Untouched%20Web-HD%20AVC%20AAC%20-%20Hon3yHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pyaar Kiya To Darna Kya 1998
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Pyaar%20Kiya%20To%20Darna%20Kya/Pyaar%20Kiya%20To%20Darna%20Kya%201998%20Hindi%20Bluray%20720p%20x264%20AC3%205.1.Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pyaar Koi Khel Nahi (1999)
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Pyaar%20Koi%20Khel%20Nahin/Pyaar%20Koi%20Khel%20Nahi%20%281999%29%20DVDSCRrip%20%5BFT%20BD.NET%5D.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pyaar To Hona Hi Tha 1998
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Pyaar%20To%20Hona%20Hi%20Tha/Pyaar%20To%20Hona%20Hi%20Tha%201998%20720p%20WEBHD%20x264%20AAC%20-%20Ranvijay.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Raja Hindustani
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Raja%20Hindustani/Raja%20Hindustani%201996%20Hindi%20720p%20DvDrip%20x264...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Raju Chacha
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Raju%20Chacha/Raju%20Chacha%20%282000%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Saajan Chale Sasural 
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Saajan%20Chale%20Sasural/Saajan%20Chale%20Sasural%20%281996%29%20WEBrip.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Sadma
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Sadma/Sadma%20%281983%29%20720p%20DvDRip.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Safari
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Safari/Safari%20%281999%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Salaakhen
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Salaakhen/Salaakhen-WebDL-1080p-x264-AAC-2.0.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Sanam
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Sanam/Sanam%201997%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Sarfarosh
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Sarfarosh/Sarfarosh%20%281999%29%20Hindi%20720p%20Blu-Ray%20x264%205.1%20MaNuDiL%20SilverRG.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Satya
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Satya/Satya%201998%20Hindi%20720p%20DvDRip%20x264%20AC3%20ESubs-Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Shikari
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Shikari/Shikari%20%282000%29%20720p%20WEBHD%20%28TeamDMR%29.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Shool
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Shool/Shool.1999.1080p.AMZN.WEB-Rip.DDP.2.1.HEVC-DDR%5BEtHD%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Sirf Tum 1999
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Sirf%20Tum/Sirf%20Tum%201999%20Hindi%20DvDrip%20720p%20x264%20Untouched%20AC3...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Soldier
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Soldier/Soldier.1998.720p.Untouched.Webhd.x264-NBY.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Sooryavansham
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Sooryavansham/Sooryavansham%201999%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Taal
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Taal/Taal.1999.Hindi.720p.HDRip.x264.AAC.-.Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Thakshak
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Thakshak/Thakshak%201999%20Hindi%20DvDRip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Vaastav
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Vaastav/Vaastav%201999%20Hindi%20720p%20WebRip%20x264%20AC3...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Virasat
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Virasat/Virasat%201997%20Hindi%20DvDRip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Wajood
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Wajood/Wajood.1998.Hindi.1080p.BDRip.x264.Selena.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Hai Mumbai Meri Jaan
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Yeh%20Hai%20Mumbai%20Meri%20Jaan/Yeh%20Hai%20Mumbai%20Meri%20Jaan%201999%20Hindi%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yes Boss
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Yes%20Boss/Yes%20Boss%201997%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Zakhm
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Zakhm/Zakhm%201998%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ziddi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Ziddi/Ziddi%20%281997%29%20Hindi%20720p%20WEBHDRip%20x264%20AAC%20-%20LOKI%20-%20M2Tv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Zulmi
+http://cds1.discoveryftp.net/Movies/Hindi/2000/Zulmi/Zulmi%20%281999%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aadamkhor Dayan
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Aadamkhor%20Dayan/Aadamkhor%20Dayan-WebDL-1080p-x264-AAC-2.0.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aamdani Atthanni Kharcha Rupaiya (2001)
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Aamdani%20Atthanni%20Kharcha%20Rupaiya/Aamdani%20Atthanni%20Kharcha%20Rupaiya%20%282001%29%20Hindi%201080p%20WEBRip%20DD%202.0%20x264%20ESub.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Abhay
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Abhay/Abhay%202001%20Hindi%20720p%20WebHD%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ajnabee
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Ajnabee/Ajnabee%20%282001%29%20Hindi%20720p%20WEBRip%20x264%20-%20%5BDDR%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Albela
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Albela/Albela.2001.720p.WEBHD.x264-worldmkv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Asoka
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Asoka/Ashoka%20the%20Great%20%28Asoka%29%20%282001%29%20Hindi%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Bas Itna Sa Khwaab Hai... (2001
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Bas%20Itna%20Sa%20Khwaab%20Hai/Bas%20Itna%20Sa%20Khwaab%20Hai...%20%282001%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chandni Bar
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Chandni%20Bar/Chandni%20Bar%202001%20480p%20NFRip%20ESub%20-DDR.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Secretly and Stealthily (Chori Chori Chupke Chupke)
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Chori%20Chori%20Chupke%20Chupke/Secretly%20and%20Stealthily%20%28Chori%20Chori%20Chupke%20Chupke%29%20%282001%29%201080p%20Hindi%20WEBRip%20x264%20DD%202.0%20ESub.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Deewaanapan
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Deewaanapan/Deewanapan%20%282001%29%20DVDrip%20%5BFT%20BD.NET%5D.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dil Chahta Hai 2001 Hindi
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Dil%20Chahta%20Hai/Dil%20Chahta%20Hai%202001%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20ESub-HDSector.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ek Rishtaa
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Ek%20Rishtaa/Ek%20Rishtaa%20The%20Bond%20of%20Love%20%282001%29%20720p%20WebHDRip%20x264%20AAC%20%7B%20TaRa%20%7D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Farz
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Farz/Farz%202001%20HDRip%20Hindi%201Gb%20720p%20%5B%20Bolly4u.bid%20%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Gadar-Ek.Prem.Katha
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Gadar-Ek%20Prem%20Katha/Gadar-Ek.Prem.Katha.2001.Hindi.720p.HDRip.x264.AC3.-.Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hum Ho Gaye Aap Ke
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Hum%20Ho%20Gaye%20Aap%20Ke/Hum%20Ho%20Gaye%20Aap%20Ke%20%282001%29.wmv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Indian
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Indian/Indian%202001%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jalta Badan
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Jalta%20Badan/Jalta%20Badan%202001%20Full%20Hot%20Hindi%20720p%20WEBHD.MP4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kabhi Khushi Kabhie Gham
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Kabhi%20Khushi%20Kabhie%20Gham/Kabhi%20Khushi%20Kabhie%20Gham%202001%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20ESubs-Masti.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kasoor
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Kasoor/Kasoor%20%282001%29%20Hindi%20720p%20HDRip%20x264.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kuch Khatti Kuch Meethi
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Kuch%20Khatti%20Kuch%20Meethi/Kuch%20Khatti%20Kuch%20Meethi%202001%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kyo Kii Main Jhuth Nahin Bolta
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Kyo%20Kii%20Main%20Jhuth%20Nahin%20Bolta/Kyo%20Kii%20Main%20Jhuth%20Nahin%20Bolta%20%282001%29%20720p%20WEBDL.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Lagaan
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Lagaan/Lagaan%202001%20Hindi%20720p%20DvDrip%20x264%20...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Lajja
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Lajja/Lajja%202001%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Love Ke Liye Kuch Bhi Karega
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Love%20Ke%20Liye%20Kuch%20Bhi%20Karega/Love%20Ke%20Liye%20Kuch%20Bhi%20Karega%202001%20Hindi%20720p%20DvDrip%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Moksha Salvation
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Moksha%20Salvation/Moksha%202001%20Hindi%201080p%20WEB%20DL%20AVC%20AAC%20E-SUBS%20DUS%20ICTV.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Monsoon Wedding
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Monsoon%20Wedding/Monsoon%20Wedding%20%282001%29%20Hindi%20720p%20BluRay%20x264%20AC3%205%201%20ESubs.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Mujhe Kucch Kehna Hai
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Mujhe%20Kucch%20Kehna%20Hai/Mujhe%20Kucch%20Kehna%20Hai%202001%20Hindi%20720p%20DvDrip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Nayak-The Real Hero
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Nayak-The%20Real%20Hero/Nayak.The.Real.Hero.2001.720p.WEB.x264-worldmkv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",One 2 Ka 4
+http://cds1.discoveryftp.net/Movies/Hindi/2001/One%202%20Ka%204/One%202%20Ka%204%202001%20Hindi%20DvDrip%20720p%20x264%20AAC%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pyaar Ishq Aur Mohabbat
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Pyaar%20Ishq%20Aur%20Mohabbat/Pyaar%20Ishq%20Aur%20Mohabbat%202001%20DvDrip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Pyaar Tune Kya Kiya
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Pyaar%20Tune%20Kya%20Kiya/Pyaar.Tune.Kya.Kiya.2001.Hindi.720p.HDRip.x264.AAC.-.Hon3yHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Rehnaa Hai Terre Dil Mein
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Rehnaa%20Hai%20Terre%20Dil%20Mein/Rehnaa%20Hai%20Terre%20Dil%20Mein%20%282001%29%20Untouched%201080p%20WEB-HD%20AAC%20-%20Hon3yHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Style
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Style/Style%202001%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Tum Bin
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Tum%20Bin/Tum%20Bin%202001%20Hindi%20HDRip%20720p%20x264%20AAC...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yaadein
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Yaadein/Yaadein.2001.Hindi.720p.HDRip.x264.AAC.-.Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Teraa Ghar Yeh Meraa Ghar 1
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Yeh%20Teraa%20Ghar%20Yeh%20Meraa%20Ghar/Yeh%20Teraa%20Ghar%20Yeh%20Meraa%20Ghar%20DVDScrRip%20Part%201%20%5BFT%20BD.NET%5D.flv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Teraa Ghar Yeh Meraa Ghar 2
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Yeh%20Teraa%20Ghar%20Yeh%20Meraa%20Ghar/Yeh%20Teraa%20Ghar%20Yeh%20Meraa%20Ghar%20DVDScrRip%20Part%202%20%5BFT%20BD.NET%5D.flv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Teraa Ghar Yeh Meraa Ghar 3
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Yeh%20Teraa%20Ghar%20Yeh%20Meraa%20Ghar/Yeh%20Teraa%20Ghar%20Yeh%20Meraa%20Ghar%20DVDScrRip%20Part%202%20%5BFT%20BD.NET%5D.flv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Zindagi Ka Safar 
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Yeh%20Zindagi%20Ka%20Safar/Yeh%20Zindagi%20Ka%20Safar%202001%20Hindi%20720p%20DvDRip%20x264%20AC3.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Zaroorat
+http://cds1.discoveryftp.net/Movies/Hindi/2001/Zaroorat/Zaroorat%202001%20Hindi%20Movie%20720p%20WEBHD.MP4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aankhen
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Aankhen/Aankhen%202002%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Aap Mujhe Achche Lagne Lage
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Aap%20Mujhe%20Achche%20Lagne%20Lage/Aap%20Mujhe%20Achche%20Lagne%20Lage%202002%20Hindi%20DvDrip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Agnivarsha The Fire and the Rain
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Agnivarsha%20The%20Fire%20and%20the%20Rain/Agnivarsha%20The%20Fire%20and%20the%20Rain%20%282002%29%20720p%20WEBRip.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Akhiyon Se Goli Maare
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Akhiyon%20Se%20Goli%20Maare/Akhiyon%20Se%20Goli%20Maare%202002%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Awara Paagal Deewana
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Awara%20Paagal%20Deewana/Awara%20Paagal%20Deewana%202002%20DvDrip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Badhaai Ho Badhaai
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Badhaai%20Ho%20Badhaai/Badhaai%20Ho%20Badhaai%20%282002%29%20DVDSCRrip%20%5BFT%20BD.NET%5D.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chalo Ishq Ladaaye
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Chalo%20Ishq%20Ladaaye/Chalo%20Ishq%20Ladaaye%202002%20Hindi%20DvDRip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chikni
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Chikni/Chikni%20%282002%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Chor Machaaye Shor
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Chor%20Machaaye%20Shor/Chor%20Machaaye%20Shor%20-%20%282002%29%20-%20DVDRip%20-%20x264%20-%201CD%20-%20Hindi%20-%20DevilRG.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Deewangee
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Deewangee/Deewangee%202002%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Devdas
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Devdas/Devdas.2002.Hindi.720p.HDRip.x264.AAC.-.Hon3yHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Dil Hai Tumhaara
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Dil%20Hai%20Tumhaara/Dil%20Hai%20Tumhaara%202002%20Hindi%20720p%20HDRip%20x264%20AAC%205.1%20-%20Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Ek Chhotisi Love Story
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Ek%20Chhotisi%20Love%20Story/Ek%20Chotisi%20Love%20Story%202002%20720p%20Hindi%20Movie.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Filhaal
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Filhaal/Filhaal...2002%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Gunaah
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Gunaah/Gunaah%20%282002%29%201080p%20WEBRip.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Haan Maine Bhi Pyaar Kiya
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Haan%20Maine%20Bhi%20Pyaar%20Kiya/Haan%20Maine%20Bhi%20Pyaar%20Kiya%20%282002%29.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hathyar
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Hathyar/Hathyar%202002%20Hindi%20DvDrip%20720p%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Hum Kisi Se Kum Nahin
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Hum%20Kisi%20Se%20Kum%20Nahin/Hum%20Kissi%20Se%20Kum%20Nahin%20%282002%29%20Hindi%20720p%20WEBHDRip%20x264%20AAC%20-%20LOKI.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Humraaz 2002 Hindi 
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Hum%20Tumhare%20Hain%20Sanam/I%20Am%20Yours%20Darling%20%28Hum%20Tumhare%20Hain%20Sanam0%20%282002%29%20Hindi%201080p%20WEBRip%20x264%20AAC%202.0.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Indra-The Tiger
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Indra-The%20Tiger/Indra-The%20Tiger%20%282002%29%20DVDRip%20x264%20AAC%20Hindi-%5BCooL%20GuY%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Jaani Dushman
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Jaani%20Dushman-Ek%20Anokhi%20Kahani/Jaani%20Dushman-Ek%20Anokhi%20Kahani%20%282002%29%20HDRip%20720p%20Hindi%20H.264%20ACC.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kali Salwaar (2002)
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Kali%20Salwaar/Kali%20Salwaar%20%282002%29%20720p%20DVDRip%20x264%20AC3%20%5BWorldfree4u%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Karz
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Karz-The%20Burden%20of%20Truth/Karz%20%282002%29.avi
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Khajuraho
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Khajuraho/Khajuraho%20%282002%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kitne Door... Kitne Paas (2002)
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Kitne%20Door%20Kitne%20Paas/Kitne%20Door...%20Kitne%20Paas%20%282002%29%20HD-Rip%20Hindi.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kranti
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Kranti/Kranti%202002%20Hindi%20DvDRip%20x264%20AC3...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kuch Tum Kaho Kuch Hum Kahein (2002)
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Kuch%20Tum%20Kaho%20Kuch%20Hum%20Kahein/Kuch%20Tum%20Kaho%20Kuch%20Hum%20Kahein%20%282002%29%20720p%20H%20264.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Kya Yehi Pyaar Hai 
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Kya%20Yehi%20Pyaar%20Hai/Kya%20Yehi%20Pyaar%20Hai%20%282002%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Maine Dil Tujhko Diya 
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Maine%20Dil%20Tujhko%20Diya/Maine%20Dil%20Tujhko%20Diya%202002%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Na Tum Jaano Na Hum 2002 
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Na%20Tum%20Jaano%20Na%20Hum/Na%20Tum%20Jaano%20Na%20Hum%202002%20Hindi%20720p%20DvDrip%20X264%20AC%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Raaz
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Raaz/Raaz.2002.Hindi.720p.HDRip.x264.AC3.-.Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Rishtey
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Rishtey/Rishtey%20%282002%29%20720p.MP4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Road
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Road/Road%202002%20Hindi%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Saathiya
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Saathiya/Saathiya%20%282002%29%20Hindi%201080P%20Amzn%20WEBRiP%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Shakthi
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Shakthi/Shakti%202002%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Soch
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Soch/Soch%20%282002%29%20%20Hindi%20DvD-Rip%20-%20720p%20-%202.1%20GB--JB.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Sur
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Sur/Sur%20%282002%29%201080p%20WEBDL.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",The Legend Of Bhagat Singh
+http://cds1.discoveryftp.net/Movies/Hindi/2002/The%20Legend%20of%20Bhagat%20Singh/The%20Legend%20Of%20Bhagat%20Singh%20%282002%29-WebDL-1080p-x264-AAC-2.0.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Tumko Na Bhool Paayenge 2002
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Tumko%20Na%20Bhool%20Paayenge/Tumko%20Na%20Bhool%20Paayenge%202002.1080p.WeB.DL.AVC.AAC.2.0.Dus-IcTv.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Waah! Tera Kya Kehna
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Waah%21%20Tera%20Kya%20Kehna/Waah%21%20Tera%20Kya%20Kehna%20%282002%29%20DVDrip%20%5BFT%20BD.NET%5D.mp4
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Dil Aashiqanaa 2002 
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Yeh%20Dil%20Aashiqanaa/Yeh%20Dil%20Aashiqanaa%202002%20Hindi%20DVDRip%20720p%20ESubs%20HEVC-Downloadhub.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Hai Jalwa 2002
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Yeh%20Hai%20Jalwa/Yeh%20Hai%20Jalwa%202002%20Hindi%20480p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+#EXTINF: -1 tvg-logo="" group-title="Hindi Movie",Yeh Mohabbat Hai
+http://cds1.discoveryftp.net/Movies/Hindi/2002/Yeh%20Mohabbat%20Hai/Yeh%20Mohabbat%20Hai%20%282002%29%20Hindi%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.man.mkv
