@@ -79,7 +79,7 @@ http://bdiptv.net:8282/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD
 http://bdiptv.net:8282/RTV/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SA TV
-http://bdiptv.net:8282/SATV/tracks-v1a1/mono.m3u
+http://bdiptv.net:8282/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD
 http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 
@@ -120,7 +120,6 @@ http://bdiptv.net:8282/SonyTVHD/tracks-v1a1/mono.m3u8
 http://bdiptv.net:8282/colorsindia/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony SAB HD
 http://bdiptv.net:8282/SONY-SUB/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD 
 http://bdiptv.net:8282/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
