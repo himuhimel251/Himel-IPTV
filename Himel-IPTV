@@ -25,63 +25,63 @@ https://1rdk.short.gy/vod2/Himel-TV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
-http://bdiptv.net:8282/Somoy-TV/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
-http://bdiptv.net:8282/ATN-Bangla/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangladeshi", ATN News
-http://bdiptv.net:8282/Atn-News/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Bangladeshi", Bangladesh Television
-http://bdiptv.net:8282/btv/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi", Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi", Banglavision HD
-http://bdiptv.net:8282/BanglaVision/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangladeshi", Boishakhi TV
-http://bdiptv.net:8282/Boishakhi/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangladeshi", Channel 9 HD
 http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangladeshi", Channel I HD
-http://bdiptv.net:8282/Channel-i/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladeshi", DBC News
-http://bdiptv.net:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV
-http://bdiptv.net:8282/depto-bangla/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/depto-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
-http://bdiptv.net:8282/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekusey TV
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangladeshi", Gazi TV HD 
-http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
-http://bdiptv.net:8282/Independent-Tv/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV
-http://bdiptv.net:8282/jamuna-tv/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/jamuna-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangladeshi", Maasranga TV HD
-http://bdiptv.net:8282/maasranga/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangladeshi", Mohona TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangladeshi", My TV BD
-http://bdiptv.net:8282/MyTV/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi", Nagorik TV
-http://bdiptv.net:8282/nagorik-tv/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD
-http://bdiptv.net:8282/News24bd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
-http://bdiptv.net:8282/Ntv/tracks-v1a1/mono.m3u8 
+http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD
-http://bdiptv.net:8282/RTV/tracks-v1/mono.m3u8
+http://15.1.5.14:8082/RTV/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SA TV
-http://bdiptv.net:8282/SATV/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD
-http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 
                                                     ***** Indian Bangla *****
 
@@ -89,25 +89,25 @@ http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.itcnbd.com/images/sonyaath.jpg" group-title="Indian Bangla", Sony Aath
 
-http://bdiptv.net:8282/Sonyaath/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/66.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="Indian Bangla", Enter 10 Bangla
-http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD 
-http://bdiptv.net:8282/jalsha-movies/tracks-v1a1/mono.m3u8 
+http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha FHD
-http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla
-http://bdiptv.net:8282/zee-bangla/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
-http://bdiptv.net:8282/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 
 
 
@@ -115,15 +115,15 @@ http://bdiptv.net:8282/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-qF7Ul1FbUuQoj9_zL9B-h3CpY0z7J3bww&usqp=CAU" group-title="Hindi Entertainment", Sony TV
-http://bdiptv.net:8282/SonyTVHD/tracks-v1a1/mono.m3u8 
+http://15.1.5.14:8082/SonyTVHD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKkvbXw.png" group-title="Hindi Entertainment", Colors HD
-http://bdiptv.net:8282/colorsindia/tracks-v1a1/mono.m3u8 
+http://15.1.5.14:8082/colorsindia/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony SAB HD
-http://bdiptv.net:8282/SONY-SUB/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD 
-http://bdiptv.net:8282/star-plus/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
-http://bdiptv.net:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 
 
 
@@ -134,12 +134,12 @@ http://bdiptv.net:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD 
-http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD
-http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD
-http://bdiptv.net:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -148,13 +148,13 @@ http://bdiptv.net:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English Infotainment", Animal Planet HD Hindi
-http://bdiptv.net:8282/natgeo-wild/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD
 http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC SD Hindi
-http://bdiptv.net:8282/tlc-hd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
 
 
                                                     
@@ -165,10 +165,10 @@ http://bdiptv.net:8282/tlc-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO 
-http://bdiptv.net:8282/star-worldhd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/star-worldhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Star Movies FHD
-http://bdiptv.net:8282/star-movies-hd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 
 
 
@@ -180,24 +180,24 @@ http://bdiptv.net:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD
-http://bdiptv.net:8282/sony-six-hd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q0ttZru.png" group-title="Sports", Sony Ten 1 HD
-http://bdiptv.net:8282/ten1-hd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="Sports", Sony Ten 2 HD
-http://bdiptv.net:8282/sony-ten2/tracks-v1a1/mono.m3u8 
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7N5ypnj.png" group-title="Sports", Sony Ten 3 HD
-http://bdiptv.net:8282/ten3/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://bdiptv.net:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/en3-34/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 2 HD
-http://bdiptv.net:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports HD
-http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 
 
@@ -219,7 +219,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Hindi
-http://bdiptv.net:8282/discovery-kid/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Nickeloden Hindi
