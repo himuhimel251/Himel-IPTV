@@ -11,6 +11,9 @@ https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(2)
 http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(3)
+https://jiovod.cdn.jio.com/vod/_definst_/smil:vodpublic/9/59/4059596068ff11ed950db57f4fef406d.smil/playlist_HD_TV_A.m3u8|User-agent=JioCinema/3.0.1.2 (Linux;Android 10) ExoPlayerLib/2.12.2
+
 **********Movies & Series**********
 
 
