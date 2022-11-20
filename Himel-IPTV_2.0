@@ -82,7 +82,7 @@ http://15.1.5.14:8082/RTV/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHuUgo3GDDj8V6ikZ40K1oT5tzf859xNJBtfszJGoqj-Daadk0vExt_TY&s=10" group-title="Bangladeshi", SA TV
 http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi", T Sports HD
-http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+http://15.1.5.22:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 
                                                     ***** Indian Bangla *****
 
