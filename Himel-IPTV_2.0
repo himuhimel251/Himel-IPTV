@@ -122,7 +122,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment", Star Plus HD 
 http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV HD
-http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-tv/chunks.m3u8
 
 
 
@@ -133,12 +133,12 @@ http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD 
-http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-max/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies", Star Gold HD
-http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi Movies", Zee Cinema HD
-http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema/chunks.m3u8
 
 
 
@@ -147,10 +147,10 @@ http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="English Infotainment", Animal Planet HD Hindi
-http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/animale-planet/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/a568c657c1f29762da1086e33ecb588a184f170d.png" group-title="English Infotainment", Discovery HD
-http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/43.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/natg/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png " group-title="English Infotainment", TLC SD Hindi
 http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
