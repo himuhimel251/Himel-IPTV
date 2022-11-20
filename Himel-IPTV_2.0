@@ -91,7 +91,7 @@ http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD
-http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/66.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/colors-bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", Enter 10 Bangla
 http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
@@ -106,7 +106,7 @@ http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla", Zee Bangla Cinema
-http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema-bangla/chunks.m3u8
 
 
 
@@ -164,10 +164,10 @@ http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movies", HBO 
-http://15.1.5.14:8082/star-worldhd/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/hbo/chunks.m3u8
 #EXTINF:-1 tvg-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies FHD
-http://15.1.5.14:8282/star-movies-hd/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-pix/chunks.m3u8
 
 
 
@@ -179,15 +179,15 @@ http://15.1.5.14:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD
-http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD
-http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 2 HD
-http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8 
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-2/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports", Sony Sports 3 HD
-http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://15.1.5.14:8082/en3-34/tracks-v1a1/mono.m3u8
@@ -196,7 +196,7 @@ http://15.1.5.14:8082/en3-34/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports HD
-http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
 
 
 
