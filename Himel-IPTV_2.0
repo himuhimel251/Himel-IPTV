@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(1)
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+https://live-ak.vimeocdn.com/exp=1668959368~acl=%2F13ec7604-f1de-4b5f-8f31-a91d34a1b3ac%2F%2A~hmac=ba439216edb9e10b7cdb705e39a10d5ab888dab0a3ce9f4ccb1d38bfa058f12e/13ec7604-f1de-4b5f-8f31-a91d34a1b3ac/chunklist_b6256000.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(2)
