@@ -4,8 +4,10 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(1)
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(2)
-https://ott.bingebd.com/live/ngrp:nxd_sony_six_hd_all/playlist.m3u8?%7CAuthorization=Bearer http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/channel9/chunks.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(1)
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/channel9/chunks.m3u8
+
 
 **********Movies & Series**********
 
