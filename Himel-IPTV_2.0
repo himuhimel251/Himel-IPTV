@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(1)
-https://vsd114.mycdn.me/hls/3324006238801.m3u8/sig/O_TbOqwv94I/expires/1669043752445/srcIp/103.111.225.10/urls/185.226.52.68/clientType/0/srcAg/CHROME_ANDROID/mid/5163733425745/3324006238801_fullhd/index.m3u8?p
+http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="Live Events", LIVE SPORTS NOW(2)
 http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
