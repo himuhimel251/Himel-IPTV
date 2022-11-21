@@ -1,2 +1,6 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 2022[CREATED BY HIMEL]", LIVE SPORTS NOW(1)[Created By Himel]
-https://medialive.jiocinema.com/bpk-tv/F22_M2_BengaliHD_DIG_BTS/Fallback/index.m3u8?__hdnea__=st=1669044178~exp=1669047778~acl=/bpk-tv/F22_M2_BengaliHD_DIG_BTS/Fallback/*~hmac=fe36d1c8da8869cbd2d877327d2a29e76909335658cf9ec016c17259542f1f1e|User-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36&uniqueid=0e6d4410-a2ff-4146-8f70-eec42a63b544&ssotoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiIwZTZkNDQxMC1hMmZmLTQxNDYtOGY3MC1lZWM0MmE2M2I1NDQiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjIwIiwiY3JlYXRlZEZvciI6Ikppb1RWIiwic0lkIjoiVTJGc2RHVmtYMSt1R0lrSGtaRUJLeDllWTE0MVNkTWoyNmJUSWlnQkRHTT0iLCJpYXQiOjE2Njg3OTIzNDZ9.uJCs_uEWgMgdUBhewy5Rp8O2nQ-P24d-pQJZs1isF34&Origin=https://www.jiocinema.com&Referer=https://www.jiocinema.com/&cookie=__hdnea__=st=1669044190~exp=1669130590~acl=/bpk-tv/F22_M2_BengaliHD_DIG_BTS/Fallback/*~hmac=adbb98dacaf373f2e60d4bfe2b4c1d592d5e780596ff85a2fdf8289a4f704734
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 22 [CREATED BY HIMEL]", T SPORTS SD
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 22 [CREATED BY HIMEL]", T SPORTS SD(2)
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
