@@ -2,7 +2,8 @@
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 2022[CREATED BY HIMEL]", LIVE SPORTS NOW(2)[Created By Himel]
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8?nimblesessionid=13469070
+
+https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_BTS/Fallback/index.m3u8?__hdnea__=st=1669032395~exp=1669035995~acl=/bpk-tv/F22_M1_BengaliHD_DIG_BTS/Fallback/*~hmac=1240a735a05a4858bc84970db4c53387282982bdf51cb20946300c3b6caefbc5|User-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36&uniqueid=0e6d4410-a2ff-4146-8f70-eec42a63b544&ssotoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiIwZTZkNDQxMC1hMmZmLTQxNDYtOGY3MC1lZWM0MmE2M2I1NDQiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjIwIiwiY3JlYXRlZEZvciI6Ikppb1RWIiwic0lkIjoiVTJGc2RHVmtYMSt1R0lrSGtaRUJLeDllWTE0MVNkTWoyNmJUSWlnQkRHTT0iLCJpYXQiOjE2Njg3OTIzNDZ9.uJCs_uEWgMgdUBhewy5Rp8O2nQ-P24d-pQJZs1isF34&Origin=https://www.jiocinema.com&Referer=https://www.jiocinema.com/&cookie=__hdnea__=st=1668956512~exp=1669042912~acl=/bpk-tv/F22_M1_BengaliHD_DIG_BTS/Fallback/*~hmac=0ce61fe05ddd4f96cdeb86bd77cf5c6c292888e008b1e6112ae51b79b2314b10; _ga=GA1.2.102372184.1668612745; _gid=GA1.2.440525243.1668612745; WZRK_G=286b3f09f39d4d48ade0f36c281ab2e3; _fbp=fb.1.1668612748811.1471390827; _gat=1; WZRK_S_WW5-K94-874Z={"p":4,"s":1669032151,"t":1669032396}
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla[CREATED BY HIMEL]", Star Jalsha FHD
 http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
