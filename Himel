@@ -1,16 +1,12 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 22 [CREATED BY HIMEL]", T SPORTS SD
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 22 [CREATED BY HIMEL]", T SPORTS SD(2)
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 22 [CREATED BY HIMEL]", Sports 18
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZT02rb-IS4--NIxqMCdG_je_PZYc24kABKuANi0JJT78NbmZygno-sw&s=10" group-title="FIFA WC 22 [CREATED BY HIMEL]", Astro
-http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
-
-
-
+#EXTM3U
+#EXT-X-DYNAMICALLY-GENERATED
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000,RESOLUTION=400x224,CODECS="avc1.640015,mp4a.40.2",FRAME-RATE=25.000
+/Transcoding/v1/hls/SfApP3fkUSGg_-RRB3FO4uHqzcCuYi1WR3MNQlZJPmCWxzKRQcbGGKIatJ_Zr3m_f5hBAcKQM4EKgYb3r3bfIA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/st_dynamic_highlatency.m3u8?type=live
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,RESOLUTION=568x320,CODECS="avc1.640015,mp4a.40.2",FRAME-RATE=25.000
+/Transcoding/v1/hls/SfApP3fkUSGg_-RRB3FO4uHqzcCuYi1WR3MNQlZJPmCWxzKRQcbGGKIatJ_Zr3m_f5hBAcKQM4EKgYb3r3bfIA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/st_dynamic_highlatency.m3u8?type=live
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,RESOLUTION=848x480,CODECS="avc1.64001e,mp4a.40.2",FRAME-RATE=25.000
+/Transcoding/v1/hls/SfApP3fkUSGg_-RRB3FO4uHqzcCuYi1WR3MNQlZJPmCWxzKRQcbGGKIatJ_Zr3m_f5hBAcKQM4EKgYb3r3bfIA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/st_dynamic_highlatency.m3u8?type=live
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2750000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000
+/Transcoding/v1/hls/SfApP3fkUSGg_-RRB3FO4uHqzcCuYi1WR3MNQlZJPmCWxzKRQcbGGKIatJ_Zr3m_f5hBAcKQM4EKgYb3r3bfIA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/st_dynamic_highlatency.m3u8?type=live
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5500000,RESOLUTION=1920x1080,CODECS="avc1.640020,mp4a.40.2",FRAME-RATE=25.000
+/Transcoding/v1/hls/SfApP3fkUSGg_-RRB3FO4uHqzcCuYi1WR3MNQlZJPmCWxzKRQcbGGKIatJ_Zr3m_f5hBAcKQM4EKgYb3r3bfIA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/st_dynamic_highlatency.m3u8?type=live
